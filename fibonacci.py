@@ -1,4 +1,3 @@
-# Fibonacci-Series
 n=int(input("Enter no.of series : "))
 a,b=0,1
 for i in range(n):
